@@ -1,1 +1,1 @@
-discord.py==0.16.12
+discord.newdiscord==0.16.12
